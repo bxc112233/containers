@@ -1,2 +1,2 @@
-FROM "gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.53.0
+FROM  gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.53.0
 MAINTAINER bxc
