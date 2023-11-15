@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.53.0@sha256:6445641a3ea1afa918f92ef51d18edf1bdb40
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.53.0
 MAINTAINER bxc
