@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.53.0@sha256:da5cefe4b29a2c0904ccdae95d5bf668068c2ac
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.53.0
 MAINTAINER bxc
