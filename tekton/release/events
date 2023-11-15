@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/events:v0.53.0@sha256:340e1edd0783bdb86e396ef53499f068a42da198
+MAINTAINER bxc
