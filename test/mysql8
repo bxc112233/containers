@@ -1,0 +1,2 @@
+FROM mysql8
+MAINTAINER bxc
